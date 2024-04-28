@@ -14,7 +14,7 @@ into a [SQLite](http://www.sqlite.org) database.
 I have create a [setup](setup.sh) script that will:
 * Pull the zip files from 1877 - CURRENT_YEAR-1.
 * Unzip files the files.
-* Create an empty database using the [sql](sched.sql] file). 
+* Create an empty database using the [sql](sched.sql file). 
 * Load the csv files into the database. 
 
 The SQL file is very basic and should be easy to modify for use in 
