@@ -25,4 +25,4 @@ CREATE TABLE schedules (
 	makeup_data	CHAR(8)		--- If game was made up, the date.
 )
 ;
-.import --csv --skip 1 2023schedule.csv schedules
+-- .import --csv --skip 1 2023schedule.csv schedules
